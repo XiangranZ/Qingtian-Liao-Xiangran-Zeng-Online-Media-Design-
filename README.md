@@ -21,5 +21,5 @@ JavaScript is used to draw the dandelions on the canvas and manipulate its outpu
 
 Description about the end result:
 The canvas is black and the dandelions are white. 
-We have six big dandelions growing on the ground with different height.
+We have several static dandelions growing on the ground with different height.
 There are flying seeds of the dandelions all over the canvas and when the user reloads the page, those flying seeds will appear at a new position. 
