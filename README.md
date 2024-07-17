@@ -9,7 +9,7 @@ The function drawDandelion is used to draw the dandelions, it has different sect
 - we mainly used ctx.moveTo and ctx.lineTo to draw stems on the ground and the seeds
 - ctx.arc: create circles at the top of the stems which simulate dandelion seeds.
 - stems are drawn by creating a series of vertical lines
-- seeds stems are drawn by creating a series of circles at the top of the stems, the size of the circles increase with each iteration of the loop.
+- seeds are drawn by creating a series of circles at the top of the stems, the size of the circles increase with each iteration of the loop.
 - we added flying dandelion seeds by creating a number of small circles that move vertically across the canvas and each of the circle has a vertical line as its own "stem".
 - we used Math.random to generate random coordinates for the seeds that are flying. 
 
